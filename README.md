@@ -11,9 +11,6 @@ Visualization & Apps: Plotly, Streamlit
 📌 Featured Projects
 🔹 AI Startup Success Predictor
 Predicts startup success using machine learning models.
-Decision Tree: 86% accuracy
-Random Forest: 93% accuracy
-XGBoost: 96% accuracy
 🔹 Placement Preparation AI Agent
 An AI-powered agent to help students prepare for campus placements.
 📜 Certifications
