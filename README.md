@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**aarushishan/aarushishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Aarush Ishan 👋
+🎓 B.Tech in Artificial Intelligence @ Sage University Bhopal (Class of 2028)
+📍 Bhopal, India
+📫 arushishan0503@gmail.com
+🚀 About Me
+I'm an AI/ML student passionate about building data-driven solutions. I enjoy working on machine learning projects — from data analysis to deploying predictive models.
+🛠️ Skills
+Languages & Tools: Python, NumPy, Pandas, Matplotlib, Seaborn
+ML/AI: Scikit-learn, XGBoost
+Visualization & Apps: Plotly, Streamlit
+📌 Featured Projects
+🔹 AI Startup Success Predictor
+Predicts startup success using machine learning models.
+Decision Tree: 86% accuracy
+Random Forest: 93% accuracy
+XGBoost: 96% accuracy
+🔹 Placement Preparation AI Agent
+An AI-powered agent to help students prepare for campus placements.
+📜 Certifications
+Foundation to AI Data Analytics (2025)
+Data Analysis using Python (2025)
+🌱 Currently
+Growing my skills in AI/ML and looking for opportunities to apply them to real-world problems.
+🏏 Beyond Code
+Coding Club member | Cricket enthusiast
